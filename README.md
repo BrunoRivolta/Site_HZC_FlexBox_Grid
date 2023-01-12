@@ -1,6 +1,15 @@
 # Projeto Site HZC
 
-![Site HZC](https://images2.imgbox.com/ff/60/jHGrlyK8_o.png)
+| 🪧 Vitrine Dev |     |
+| ------------- | --- |
+| ✨ Nome        | Projeto Site HZC |
+| 🏷️ Tecnologias | HTML, CSS, FlexBox, Grid |
+| 🚀 URL Front-end | https://brunorivolta.github.io/Site_HZC_FlexBox_Grid |
+| 🔥 Desafio     | https://github.com/BrunoRivolta/Site_HZC_FlexBox_Grid |   
+
+    
+
+![Site HZC](https://images2.imgbox.com/1b/c6/QFeBqk9Z_o.gif#vitrinedev)
 
 
 Projeto para treino e aprendizado de CSS Flex box e Grid.
